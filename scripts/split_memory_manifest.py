@@ -17,7 +17,9 @@ OUT_DIR = Path(__file__).resolve().parents[1] / "benchmarks"
 
 def classify(path: Path, text: str) -> str:
     name = path.name.lower()
-    if "heartbeat" in name or "-" in name and len(name) > 14:
+    if name in {"facts-config.md", "daily_news_log.md"}:
+        return "structured"
+    if "heartbeat" in name or ("-" in name and len(name) > 14):
         return "transcript"
     # simple heuristic: many json fences / metadata blocks => transcript-ish
     noisy_markers = text.count("```json") + text.count("sender_id")

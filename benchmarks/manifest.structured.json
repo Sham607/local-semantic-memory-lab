@@ -22,5 +22,9 @@
   {
     "path": "/home/gito/.openclaw/workspace/memory/daily_news_log.md",
     "kind": "structured"
+  },
+  {
+    "path": "/home/gito/.openclaw/workspace/memory/facts-config.md",
+    "kind": "structured"
   }
 ]
