@@ -17,6 +17,7 @@
 - V1 selesai: minScore 0.25 live, hasil belum membaik signifikan.
 - V2 dimulai: blueprint `configs/retrieval-v2-structured-first.yaml` + `docs/v2-implementation-plan.md` sudah tersedia.
 - V2 simulation (manual dry-run) menunjukkan indikasi perbaikan ke Strong ~45% dan Noise ~40%.
+- V2.3 collector scaffold tersedia: `scripts/collector_topk.py` + `benchmarks/topk_todo.v23.json`.
 
 ## Definition of Done
 - Strong >=55%
