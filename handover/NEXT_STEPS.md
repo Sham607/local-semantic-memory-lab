@@ -12,6 +12,10 @@
 - Iterasi 3: add local reranker
 - Iterasi 4: tuning minScore + topK
 
+## Current Status
+- V1 selesai: minScore 0.25 live, hasil belum membaik signifikan.
+- V2 dimulai: blueprint `configs/retrieval-v2-structured-first.yaml` + `docs/v2-implementation-plan.md` sudah tersedia.
+
 ## Definition of Done
 - Strong >=55%
 - Noise <=25%

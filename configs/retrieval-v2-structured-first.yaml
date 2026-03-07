@@ -1,0 +1,36 @@
+name: tuned-v2-structured-first
+objective:
+  strong_min: 0.55
+  noise_max: 0.25
+runtime_strategy:
+  stage_1_retrieve:
+    provider: local
+    mode: hybrid
+    topK: 12
+    minScore: 0.22
+  stage_2_filter:
+    enabled: true
+    sourcePriority:
+      - structured
+      - memory_log
+      - transcript
+    allowKinds:
+      - structured
+      - memory_log
+      - transcript
+    timeDecay:
+      enabled: true
+      halfLifeDays: 21
+  stage_3_rerank:
+    enabled: true
+    method: lexical_semantic_mix
+    weights:
+      semantic: 0.65
+      lexical: 0.20
+      sourcePriority: 0.10
+      recency: 0.05
+  stage_4_select:
+    topN: 5
+notes:
+  - This is an implementation blueprint for retrieval middleware layer.
+  - Not directly supported by current OpenClaw config keys without pipeline extension.
