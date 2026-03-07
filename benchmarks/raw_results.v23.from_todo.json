@@ -1,0 +1,102 @@
+[
+  {
+    "id": "Q01",
+    "query": "Pak Hinsyah confirmed he is Swing/Day Trader not long-term investor",
+    "candidates": []
+  },
+  {
+    "id": "Q02",
+    "query": "siapa Pak Resa dan apa role nya",
+    "candidates": []
+  },
+  {
+    "id": "Q03",
+    "query": "jadwal harian 07:00 WIB news collection",
+    "candidates": []
+  },
+  {
+    "id": "Q04",
+    "query": "jadwal harian 07:30 WIB greeting dan ringkasan Bloomberg Technoz",
+    "candidates": []
+  },
+  {
+    "id": "Q05",
+    "query": "session key saat ini",
+    "candidates": []
+  },
+  {
+    "id": "Q06",
+    "query": "memorySearch provider local fallback none",
+    "candidates": []
+  },
+  {
+    "id": "Q07",
+    "query": "protocol channel by peer isolasi per sender_id",
+    "candidates": []
+  },
+  {
+    "id": "Q08",
+    "query": "runtime environment KVM virtual machine Debian 11 ARM64",
+    "candidates": []
+  },
+  {
+    "id": "Q09",
+    "query": "broker code MG corrected to Semesta Indovest Sekuritas",
+    "candidates": []
+  },
+  {
+    "id": "Q10",
+    "query": "alias model gpt ke model apa",
+    "candidates": []
+  },
+  {
+    "id": "Q11",
+    "query": "default model utama openai-codex gpt-5.3-codex",
+    "candidates": []
+  },
+  {
+    "id": "Q12",
+    "query": "fallback model include gemini dan minimax",
+    "candidates": []
+  },
+  {
+    "id": "Q13",
+    "query": "nama assistant Gito emoji",
+    "candidates": []
+  },
+  {
+    "id": "Q14",
+    "query": "allowlist telegram user ids",
+    "candidates": []
+  },
+  {
+    "id": "Q15",
+    "query": "dmPolicy pairing groupPolicy allowlist",
+    "candidates": []
+  },
+  {
+    "id": "Q16",
+    "query": "skill market-brief-humanizer untuk morning brief",
+    "candidates": []
+  },
+  {
+    "id": "Q17",
+    "query": "morning brief db-first gunakan news.db",
+    "candidates": []
+  },
+  {
+    "id": "Q18",
+    "query": "memory search sync onSessionStart onSearch intervalMinutes",
+    "candidates": []
+  },
+  {
+    "id": "Q19",
+    "query": "OpenAI Codex OAuth refreshed and quota normal",
+    "candidates": []
+  },
+  {
+    "id": "Q20",
+    "query": "current gemini setup uses oauth hinsyahmarziani@gmail.com",
+    "candidates": []
+  }
+]

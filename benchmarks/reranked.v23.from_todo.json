@@ -1,0 +1,122 @@
+[
+  {
+    "id": "Q01",
+    "query": "Pak Hinsyah confirmed he is Swing/Day Trader not long-term investor",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q02",
+    "query": "siapa Pak Resa dan apa role nya",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q03",
+    "query": "jadwal harian 07:00 WIB news collection",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q04",
+    "query": "jadwal harian 07:30 WIB greeting dan ringkasan Bloomberg Technoz",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q05",
+    "query": "session key saat ini",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q06",
+    "query": "memorySearch provider local fallback none",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q07",
+    "query": "protocol channel by peer isolasi per sender_id",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q08",
+    "query": "runtime environment KVM virtual machine Debian 11 ARM64",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q09",
+    "query": "broker code MG corrected to Semesta Indovest Sekuritas",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q10",
+    "query": "alias model gpt ke model apa",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q11",
+    "query": "default model utama openai-codex gpt-5.3-codex",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q12",
+    "query": "fallback model include gemini dan minimax",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q13",
+    "query": "nama assistant Gito emoji",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q14",
+    "query": "allowlist telegram user ids",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q15",
+    "query": "dmPolicy pairing groupPolicy allowlist",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q16",
+    "query": "skill market-brief-humanizer untuk morning brief",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q17",
+    "query": "morning brief db-first gunakan news.db",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q18",
+    "query": "memory search sync onSessionStart onSearch intervalMinutes",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q19",
+    "query": "OpenAI Codex OAuth refreshed and quota normal",
+    "top1": null,
+    "reranked": []
+  },
+  {
+    "id": "Q20",
+    "query": "current gemini setup uses oauth hinsyahmarziani@gmail.com",
+    "top1": null,
+    "reranked": []
+  }
+]
