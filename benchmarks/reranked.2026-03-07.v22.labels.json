@@ -1,0 +1,142 @@
+[
+  {
+    "id": "Q01",
+    "label": "strong",
+    "hit": 2,
+    "expected": 2,
+    "path": "memory/2026-02-26.md"
+  },
+  {
+    "id": "Q02",
+    "label": "noise",
+    "hit": 0,
+    "expected": 3,
+    "path": "memory/2026-03-06-heartbeat-overdue.md"
+  },
+  {
+    "id": "Q03",
+    "label": "noise",
+    "hit": 0,
+    "expected": 2,
+    "path": "memory/2026-03-05-1028.md"
+  },
+  {
+    "id": "Q04",
+    "label": "noise",
+    "hit": 0,
+    "expected": 2,
+    "path": "memory/2026-03-05-1028.md"
+  },
+  {
+    "id": "Q05",
+    "label": "strong",
+    "hit": 1,
+    "expected": 1,
+    "path": "memory/2026-03-05-1601.md"
+  },
+  {
+    "id": "Q06",
+    "label": "noise",
+    "hit": 0,
+    "expected": 4,
+    "path": "memory/2026-03-05-1028.md"
+  },
+  {
+    "id": "Q07",
+    "label": "strong",
+    "hit": 3,
+    "expected": 3,
+    "path": "memory/2026-02-20.md"
+  },
+  {
+    "id": "Q08",
+    "label": "strong",
+    "hit": 2,
+    "expected": 2,
+    "path": "memory/2026-02-20.md"
+  },
+  {
+    "id": "Q09",
+    "label": "noise",
+    "hit": 0,
+    "expected": 2,
+    "path": "memory/2026-03-05-1432.md"
+  },
+  {
+    "id": "Q10",
+    "label": "noise",
+    "hit": 0,
+    "expected": 3,
+    "path": "memory/2026-03-05-1432.md"
+  },
+  {
+    "id": "Q11",
+    "label": "strong",
+    "hit": 1,
+    "expected": 2,
+    "path": "memory/2026-03-06-0626.md"
+  },
+  {
+    "id": "Q12",
+    "label": "strong",
+    "hit": 2,
+    "expected": 3,
+    "path": "memory/2026-03-06-0626.md"
+  },
+  {
+    "id": "Q13",
+    "label": "noise",
+    "hit": 0,
+    "expected": 2,
+    "path": "memory/2026-03-05-1028.md"
+  },
+  {
+    "id": "Q14",
+    "label": "noise",
+    "hit": 0,
+    "expected": 2,
+    "path": "memory/2026-03-05-1432.md"
+  },
+  {
+    "id": "Q15",
+    "label": "noise",
+    "hit": 0,
+    "expected": 4,
+    "path": "memory/2026-03-05-1432.md"
+  },
+  {
+    "id": "Q16",
+    "label": "noise",
+    "hit": 0,
+    "expected": 2,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q17",
+    "label": "noise",
+    "hit": 0,
+    "expected": 2,
+    "path": "memory/2026-03-05-1028.md"
+  },
+  {
+    "id": "Q18",
+    "label": "noise",
+    "hit": 0,
+    "expected": 3,
+    "path": "memory/2026-03-07.md"
+  },
+  {
+    "id": "Q19",
+    "label": "strong",
+    "hit": 2,
+    "expected": 2,
+    "path": "memory/2026-03-06.md"
+  },
+  {
+    "id": "Q20",
+    "label": "strong",
+    "hit": 3,
+    "expected": 3,
+    "path": "memory/2026-03-06.md"
+  }
+]
