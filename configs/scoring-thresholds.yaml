@@ -1,0 +1,10 @@
+labels:
+  strong:
+    description: top-1 sesuai intent query
+  partial:
+    description: top-1 terkait tapi belum tepat
+  noise:
+    description: top-1 tidak sesuai intent
+kpi:
+  strong_min: 0.55
+  noise_max: 0.25

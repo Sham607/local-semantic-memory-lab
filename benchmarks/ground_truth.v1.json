@@ -1,0 +1,22 @@
+[
+  {"id":"Q01","expected_contains":["Swing/Day Trader","not a long-term investor"],"expected_source_hint":"memory/2026-02-26.md"},
+  {"id":"Q02","expected_contains":["Pak Resa","Owner","Architect"],"expected_source_hint":"USER.md"},
+  {"id":"Q03","expected_contains":["07:00 WIB","News collection"],"expected_source_hint":"HEARTBEAT.md"},
+  {"id":"Q04","expected_contains":["07:30 WIB","Bloomberg Technoz"],"expected_source_hint":"HEARTBEAT.md"},
+  {"id":"Q05","expected_contains":["agent:main:main"],"expected_source_hint":"session metadata"},
+  {"id":"Q06","expected_contains":["provider","local","fallback","none"],"expected_source_hint":"config summary"},
+  {"id":"Q07","expected_contains":["Channel by Peer","isolated contexts","sender_id"],"expected_source_hint":"memory/2026-02-20.md"},
+  {"id":"Q08","expected_contains":["KVM Virtual Machine","Debian 11 ARM64"],"expected_source_hint":"memory/2026-02-20.md"},
+  {"id":"Q09","expected_contains":["MG","Semesta Indovest Sekuritas"],"expected_source_hint":"memory/2026-02-26.md"},
+  {"id":"Q10","expected_contains":["alias","gpt","openai-codex/gpt-5.3-codex"],"expected_source_hint":"agent defaults model map"},
+  {"id":"Q11","expected_contains":["primary","openai-codex/gpt-5.3-codex"],"expected_source_hint":"agent defaults"},
+  {"id":"Q12","expected_contains":["fallbacks","gemini","MiniMax"],"expected_source_hint":"agent defaults"},
+  {"id":"Q13","expected_contains":["Gito","🔧"],"expected_source_hint":"IDENTITY.md"},
+  {"id":"Q14","expected_contains":["1180265827","1721826632"],"expected_source_hint":"channels.telegram.allowFrom"},
+  {"id":"Q15","expected_contains":["dmPolicy","pairing","groupPolicy","allowlist"],"expected_source_hint":"channels.telegram"},
+  {"id":"Q16","expected_contains":["market-brief-humanizer","Morning Brief"],"expected_source_hint":"skills/market-brief-humanizer/SKILL.md"},
+  {"id":"Q17","expected_contains":["DB-first","news.db"],"expected_source_hint":"cron morning brief instructions"},
+  {"id":"Q18","expected_contains":["onSessionStart","onSearch","intervalMinutes"],"expected_source_hint":"memorySearch sync settings"},
+  {"id":"Q19","expected_contains":["Codex OAuth was refreshed","quota normal"],"expected_source_hint":"memory/2026-03-06.md"},
+  {"id":"Q20","expected_contains":["gemini","oauth","hinsyahmarziani@gmail.com"],"expected_source_hint":"memory/2026-03-06.md"}
+]

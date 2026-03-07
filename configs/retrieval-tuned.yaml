@@ -1,0 +1,22 @@
+name: tuned-v1
+strategy:
+  index_split:
+    structured_memory: true
+    transcript_memory: true
+  retrieval:
+    mode: hybrid
+    topK_initial: 12
+    topN_final: 5
+  filters:
+    source_priority:
+      - structured
+      - memory_log
+      - transcript
+    time_decay: true
+  reranker:
+    enabled: true
+    type: local_cross_encoder
+  scoring:
+    minScore: 0.25
+notes:
+  - Tune one variable at a time during experiments.

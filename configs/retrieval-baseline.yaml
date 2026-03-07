@@ -1,0 +1,10 @@
+name: baseline
+memorySearch:
+  provider: local
+  fallback: none
+  mode: hybrid
+  query:
+    maxResults: 8
+    minScore: 0.2
+notes:
+  - Current production-like baseline snapshot.
