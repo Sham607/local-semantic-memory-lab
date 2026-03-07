@@ -3,7 +3,8 @@
 ## Immediate Actions
 1. Jalankan benchmark mini v1 secara otomatis (20 query) dan simpan raw result.
 2. Labeling strong/partial/noise terhadap top-1.
-3. Isi `benchmarks/results-after-tuning.v1.md` setelah tuning.
+3. Lanjutkan dari status terbaru di `benchmarks/results-after-tuning.v1.md`.
+4. Gunakan `scripts/split_memory_manifest.py` untuk membangun manifest split awal (structured vs transcript).
 
 ## Iteration Plan
 - Iterasi 1: metadata filter source + date
