@@ -20,6 +20,13 @@ V1 (minScore only) did not improve quality. Need pipeline-level changes.
 5. Optional lexical overlap bonus to reduce semantic drift.
 6. Output ranked topN and evaluate top-1 label.
 
+### Middleware script (v2.2)
+- Script: `scripts/rerank_structured_first.py`
+- Input: `benchmarks/raw_results.<date>.json`
+- Output: `benchmarks/reranked.<date>.json`
+- Example:
+  - `python3 scripts/rerank_structured_first.py benchmarks/raw_results.template.json benchmarks/reranked.sample.json`
+
 ## Acceptance Criteria
 - Strong >= 55%
 - Noise <= 25%
