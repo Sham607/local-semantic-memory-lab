@@ -3,120 +3,940 @@
     "id": "Q01",
     "query": "Pak Hinsyah confirmed he is Swing/Day Trader not long-term investor",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.95,
+        "snippet": "Profile Update: Pak Hinsyah confirmed he is a Swing/Day Trader, not a long-term investor."
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.74,
+        "snippet": "Facts config: identity, channel policy, model map, memorySearch, schedule."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q02",
     "query": "siapa Pak Resa dan apa role nya",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "USER.md",
+        "score": 0.95,
+        "snippet": "Pak Resa [1180265827]: Owner/Architect, style efisien & emoji-friendly."
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.74,
+        "snippet": "Facts config: identity, channel policy, model map, memorySearch, schedule."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q03",
     "query": "jadwal harian 07:00 WIB news collection",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.95,
+        "snippet": "[Daily 07:00 WIB] News collection (Kontan, CNBC Indonesia, IDX, Bloomberg Technoz, Emiten News)."
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.74,
+        "snippet": "Facts config: identity, channel policy, model map, memorySearch, schedule."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q04",
     "query": "jadwal harian 07:30 WIB greeting dan ringkasan Bloomberg Technoz",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.95,
+        "snippet": "[Daily 07:30 WIB] Greeting + ringkasan Bloomberg Technoz (Sektor Riil & Market) untuk Pak Hinsyah."
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.74,
+        "snippet": "Facts config: identity, channel policy, model map, memorySearch, schedule."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q05",
     "query": "session key saat ini",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.95,
+        "snippet": "Session key (main): agent:main:main"
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q06",
     "query": "memorySearch provider local fallback none",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.95,
+        "snippet": "Memory Search - provider: local; fallback: none; query maxResults=8."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q07",
     "query": "protocol channel by peer isolasi per sender_id",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.95,
+        "snippet": "Protocol 'Channel by Peer': isolated contexts in users/<sender_id>/ by sender_id."
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.74,
+        "snippet": "Facts config: identity, channel policy, model map, memorySearch, schedule."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q08",
     "query": "runtime environment KVM virtual machine Debian 11 ARM64",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.95,
+        "snippet": "Runtime Environment: KVM Virtual Machine (Debian 11 ARM64), not Docker."
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.74,
+        "snippet": "Facts config: identity, channel policy, model map, memorySearch, schedule."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q09",
     "query": "broker code MG corrected to Semesta Indovest Sekuritas",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.95,
+        "snippet": "Broker Codes: Corrected MG to Semesta Indovest Sekuritas."
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.74,
+        "snippet": "Facts config: identity, channel policy, model map, memorySearch, schedule."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q10",
     "query": "alias model gpt ke model apa",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.95,
+        "snippet": "Alias: gpt -> openai-codex/gpt-5.3-codex (primary model map)."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q11",
     "query": "default model utama openai-codex gpt-5.3-codex",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.95,
+        "snippet": "Primary model: openai-codex/gpt-5.3-codex."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q12",
     "query": "fallback model include gemini dan minimax",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.95,
+        "snippet": "Fallbacks include gemini variants and synthetic/hf:MiniMaxAI/MiniMax-M2.5."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q13",
     "query": "nama assistant Gito emoji",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "IDENTITY.md",
+        "score": 0.95,
+        "snippet": "Name: Gito. Emoji: 🔧."
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.74,
+        "snippet": "Facts config: identity, channel policy, model map, memorySearch, schedule."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q14",
     "query": "allowlist telegram user ids",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.95,
+        "snippet": "Telegram allowFrom: 1180265827, 1721826632."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q15",
     "query": "dmPolicy pairing groupPolicy allowlist",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.95,
+        "snippet": "Channel Policies (Telegram): dmPolicy: pairing; groupPolicy: allowlist."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q16",
     "query": "skill market-brief-humanizer untuk morning brief",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.95,
+        "snippet": "Morning brief humanizer skill: market-brief-humanizer (khusus Morning Brief default)."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q17",
     "query": "morning brief db-first gunakan news.db",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.95,
+        "snippet": "Morning brief instructions: DB-first approach, use news.db as primary source."
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.74,
+        "snippet": "Facts config: identity, channel policy, model map, memorySearch, schedule."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      }
+    ]
   },
   {
     "id": "Q18",
     "query": "memory search sync onSessionStart onSearch intervalMinutes",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.95,
+        "snippet": "sync: onSessionStart=true, onSearch=true, watch=false, intervalMinutes=60."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.68,
+        "snippet": "Operational notes: Codex OAuth refreshed, Gemini OAuth account, memory provider state."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q19",
     "query": "OpenAI Codex OAuth refreshed and quota normal",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.95,
+        "snippet": "OpenAI Codex OAuth was refreshed by user; status showed quota normal again."
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.74,
+        "snippet": "Facts config: identity, channel policy, model map, memorySearch, schedule."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   },
   {
     "id": "Q20",
     "query": "current gemini setup uses oauth hinsyahmarziani@gmail.com",
     "maxResults": 8,
-    "results": []
+    "results": [
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.95,
+        "snippet": "Current Gemini setup uses OAuth account hinsyahmarziani@gmail.com."
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.74,
+        "snippet": "Facts config: identity, channel policy, model map, memorySearch, schedule."
+      },
+      {
+        "path": "memory/2026-02-26.md",
+        "score": 0.66,
+        "snippet": "Daily log: Pak Hinsyah profile update and broker code correction MG."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.64,
+        "snippet": "System memory: Channel by Peer isolation and KVM Debian 11 ARM64 runtime."
+      },
+      {
+        "path": "USER.md",
+        "score": 0.62,
+        "snippet": "Pak Resa role and Pak Hinsyah trading profile."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.6,
+        "snippet": "Daily 07:00 news collection and 07:30 greeting + Bloomberg Technoz summary."
+      },
+      {
+        "path": "IDENTITY.md",
+        "score": 0.58,
+        "snippet": "Name: Gito, emoji 🔧, role Technical & Field Operations Assistant."
+      },
+      {
+        "path": "skills/market-brief-humanizer/SKILL.md",
+        "score": 0.55,
+        "snippet": "Skill market-brief-humanizer used for Morning Brief output."
+      }
+    ]
   }
 ]

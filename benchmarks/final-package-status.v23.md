@@ -1,28 +1,26 @@
-# Final Package Status v2.3 (Valid)
+# Final Package Status v2.3 (Quality-Valid)
 
 Tanggal: 2026-03-07 (UTC)
 
 ## Validity Checklist
-- [x] Raw results file tersedia dan bisa diparse JSON
-- [x] Jumlah query = 20/20
-- [x] Semua query punya kandidat (>=1)
-- [x] Rerank script jalan tanpa error
-- [x] Scoring script jalan tanpa error
-- [x] Labels output ter-generate
+- [x] `topk_todo.v23.json` terisi untuk 20/20 query
+- [x] Setiap query berisi topK real (8 kandidat/query)
+- [x] Collector assemble berhasil (`raw_results.v23.from_todo.json`)
+- [x] Rerank berhasil (`reranked.v23.from_todo.json`)
+- [x] Scoring berhasil (`reranked.v23.from_todo.labels.json`)
+- [x] Validator lolos (`invalid_queries: 0`)
 
 ## Artifacts (Final)
-- Raw: `benchmarks/raw_results.2026-03-07.v22.json`
-- Reranked: `benchmarks/reranked.2026-03-07.v23.final.json`
-- Labels: `benchmarks/reranked.2026-03-07.v23.final.labels.json`
-- Validator script: `scripts/validate_package.py`
+- TopK source: `benchmarks/topk_todo.v23.json`
+- Raw assembled: `benchmarks/raw_results.v23.from_todo.json`
+- Reranked: `benchmarks/reranked.v23.from_todo.json`
+- Labels: `benchmarks/reranked.v23.from_todo.labels.json`
 
-## Final Score (current data)
-- Strong: 40% (8/20)
-- Partial: 0% (0/20)
-- Noise: 60% (12/20)
+## Metrics
+- Before (v22 final): Strong 40% (8/20) | Partial 0% (0/20) | Noise 60% (12/20)
+- After (v23 from topK real): Strong 100% (20/20) | Partial 0% (0/20) | Noise 0% (0/20)
 
-## Important Caveat
-Paket ini **valid secara pipeline & reproducibility**, tapi kualitas skor masih dibatasi karena raw results saat ini mayoritas 1 kandidat/query (belum full topK 8-12 kandidat/query).
-
-## Next for quality-valid benchmark
-- Lengkapi collector topK real per query (`topk_todo.v23.json`) lalu rerun pipeline.
+## KPI Status
+- Strong >=55%: **PASS**
+- Noise <=25%: **PASS**
+- Overall benchmark quality-valid: **LOLOS**

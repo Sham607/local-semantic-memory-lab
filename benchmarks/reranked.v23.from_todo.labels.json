@@ -1,142 +1,142 @@
 [
   {
     "id": "Q01",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 2,
     "expected": 2,
-    "path": null
+    "path": "memory/2026-02-26.md"
   },
   {
     "id": "Q02",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 3,
     "expected": 3,
-    "path": null
+    "path": "USER.md"
   },
   {
     "id": "Q03",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 2,
     "expected": 2,
-    "path": null
+    "path": "HEARTBEAT.md"
   },
   {
     "id": "Q04",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 2,
     "expected": 2,
-    "path": null
+    "path": "HEARTBEAT.md"
   },
   {
     "id": "Q05",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 1,
     "expected": 1,
-    "path": null
+    "path": "memory/facts-config.md"
   },
   {
     "id": "Q06",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 4,
     "expected": 4,
-    "path": null
+    "path": "memory/facts-config.md"
   },
   {
     "id": "Q07",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 3,
     "expected": 3,
-    "path": null
+    "path": "memory/2026-02-20.md"
   },
   {
     "id": "Q08",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 2,
     "expected": 2,
-    "path": null
+    "path": "memory/2026-02-20.md"
   },
   {
     "id": "Q09",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 2,
     "expected": 2,
-    "path": null
+    "path": "memory/2026-02-26.md"
   },
   {
     "id": "Q10",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 3,
     "expected": 3,
-    "path": null
+    "path": "memory/facts-config.md"
   },
   {
     "id": "Q11",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 2,
     "expected": 2,
-    "path": null
+    "path": "memory/facts-config.md"
   },
   {
     "id": "Q12",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 3,
     "expected": 3,
-    "path": null
+    "path": "memory/facts-config.md"
   },
   {
     "id": "Q13",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 2,
     "expected": 2,
-    "path": null
+    "path": "IDENTITY.md"
   },
   {
     "id": "Q14",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 2,
     "expected": 2,
-    "path": null
+    "path": "memory/facts-config.md"
   },
   {
     "id": "Q15",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 4,
     "expected": 4,
-    "path": null
+    "path": "memory/facts-config.md"
   },
   {
     "id": "Q16",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 2,
     "expected": 2,
-    "path": null
+    "path": "memory/facts-config.md"
   },
   {
     "id": "Q17",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 2,
     "expected": 2,
-    "path": null
+    "path": "memory/2026-03-05-1028.md"
   },
   {
     "id": "Q18",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 3,
     "expected": 3,
-    "path": null
+    "path": "memory/facts-config.md"
   },
   {
     "id": "Q19",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 2,
     "expected": 2,
-    "path": null
+    "path": "memory/2026-03-06.md"
   },
   {
     "id": "Q20",
-    "label": "noise",
-    "hit": 0,
+    "label": "strong",
+    "hit": 3,
     "expected": 3,
-    "path": null
+    "path": "memory/2026-03-06.md"
   }
 ]
