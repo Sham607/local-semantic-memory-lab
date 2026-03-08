@@ -1,0 +1,22 @@
+[
+  {"id":"Q01","expected_contains":["MIDI","Entry 268–276","CL <258","TP 290 / 304"],"expected_source_hint":"memory/2026-03-05-1256.md"},
+  {"id":"Q02","expected_contains":["MIDI","LOLOS (A)","Seasonal Ramadhan + defensif retail"],"expected_source_hint":"memory/2026-03-05-1256.md"},
+  {"id":"Q03","expected_contains":["ERAA","Entry 408–418","CL <398","TP 432 / 458"],"expected_source_hint":"memory/2026-03-05-1256.md"},
+  {"id":"Q04","expected_contains":["ERAA","Net foreign campuran","5 Mar negatif","akumulasi kuat"],"expected_source_hint":"memory/2026-03-05-1256.md"},
+  {"id":"Q05","expected_contains":["ASSA","1,025–1,060","close < 995","1,150–1,190"],"expected_source_hint":"memory/2026-03-05-1256.md"},
+  {"id":"Q06","expected_contains":["MIDI","ERAA","ASSA","WEHA"],"expected_source_hint":"memory/2026-03-05-1256.md"},
+  {"id":"Q07","expected_contains":["CSAP","SPEK TERKONTROL","286–292"],"expected_source_hint":"memory/2026-03-05-1256.md"},
+  {"id":"Q08","expected_contains":["Header price panel","Running Trade","Broker Summary","Broker Distribution","Tabel Daily"],"expected_source_hint":"memory/2026-03-05-1256.md"},
+  {"id":"Q09","expected_contains":["ERAA","MIDI","ASSA"],"expected_source_hint":"memory/2026-03-05-1256.md"},
+  {"id":"Q10","expected_contains":["MIDI","NO TRADE","watchlist observasi"],"expected_source_hint":"memory/2026-03-05-1256.md"},
+  {"id":"Q11","expected_contains":["MIDI","Trigger Buy Breakout: > 276","Trigger Buy Pullback: area 268–272"],"expected_source_hint":"memory/2026-03-05-1256.md"},
+  {"id":"Q12","expected_contains":["ERAA","Trigger Buy Breakout: > 418","lebih aman kalau tembus 422"],"expected_source_hint":"memory/2026-03-05-1256.md"},
+  {"id":"Q13","expected_contains":["ASSA","Trigger Buy Breakout: > 1,060","konfirmasi kuat kalau >1,070"],"expected_source_hint":"memory/2026-03-05-1256.md"},
+  {"id":"Q14","expected_contains":["WEHA","volatil tinggi","size posisi kecil"],"expected_source_hint":"memory/2026-03-05-1256.md"},
+  {"id":"Q15","expected_contains":["CSAP","likuiditas tipis","wajib kecil lot"],"expected_source_hint":"memory/2026-03-05-1256.md"},
+  {"id":"Q16","expected_contains":["ERAA","MAPI","RALS","MIDI","ACES","AMRT","MAPB","FAST","CLEO","GOOD","HOKI","ROTI","ULTJ"],"expected_source_hint":"memory/2026-03-05-1432.md"},
+  {"id":"Q17","expected_contains":["IRSX","Entry 500-510","Cut <490","TP 540/570/600"],"expected_source_hint":"memory/2026-03-05-1432.md"},
+  {"id":"Q18","expected_contains":["Ticker | Tesis | Entry | Cut | TP | Confidence"],"expected_source_hint":"memory/2026-03-05-1432.md"},
+  {"id":"Q19","expected_contains":["backdoor-screener","idx-momentum-pro","insider-flow-monitor","metode-wyckoff","narrative-trading","price-volume-checklist"],"expected_source_hint":"memory/2026-03-05-1329.md"},
+  {"id":"Q20","expected_contains":["/new","reset session","combine semua framework trading otomatis"],"expected_source_hint":"memory/2026-03-05-1256.md"}
+]

@@ -1,0 +1,22 @@
+[
+  {"id":"Q01","query":"Di shortlist final consumer second liner, berapa entry range, cutloss, dan target profit pertama untuk MIDI?"},
+  {"id":"Q02","query":"Apa status kualitas MIDI pada tabel final dan apa narasi utamanya?"},
+  {"id":"Q03","query":"Untuk ERAA, sebutkan entry zone, batas cutloss, dan dua level TP pada setup final."},
+  {"id":"Q04","query":"Apa alasan flow money ERAA disebut campuran pada 5 Mar?"},
+  {"id":"Q05","query":"Untuk ASSA, berapa zona entry pullback, invalidasi setup, dan TP lanjutan?"},
+  {"id":"Q06","query":"Urutan prioritas eksekusi harian yang disebutkan setelah final shortlist apa saja?"},
+  {"id":"Q07","query":"Ticker mana yang diklasifikasikan SPEK TERKONTROL dan berapa area entry-nya?"},
+  {"id":"Q08","query":"Dalam quick-scan relay, menu apa saja yang benar-benar dicek sebelum deep scan?"},
+  {"id":"Q09","query":"Ticker apa saja yang sudah benar-benar dicek detail via relay pada putaran awal?"},
+  {"id":"Q10","query":"Apa revisi keputusan trading untuk MIDI setelah evaluasi struktur daily downtrend?"},
+  {"id":"Q11","query":"Trigger buy breakout dan trigger buy pullback untuk MIDI versi intraday live berapa?"},
+  {"id":"Q12","query":"Untuk ERAA intraday live, level breakout aman tambahan ada di harga berapa?"},
+  {"id":"Q13","query":"Untuk ASSA intraday live, konfirmasi breakout kuat disebut di atas level berapa?"},
+  {"id":"Q14","query":"Apa risk note khusus untuk WEHA dan bagaimana arahan sizing posisinya?"},
+  {"id":"Q15","query":"Apa risk note untuk CSAP dan kenapa disarankan lot kecil?"},
+  {"id":"Q16","query":"Dalam universe scan besar consumer/trading second liner, ticker apa saja yang disebut bersama ERAA dan MIDI?"},
+  {"id":"Q17","query":"Pada top 20 paling menarik, setup IRSX mencakup entry, cut, dan tiga target TP berapa?"},
+  {"id":"Q18","query":"Apa format output final yang diwajibkan setelah gabungan framework trading dijalankan?"},
+  {"id":"Q19","query":"Sebutkan enam skill market yang dinyatakan paling relevan untuk analisis saham."},
+  {"id":"Q20","query":"Apa perintah operasional yang disarankan untuk reset sesi agar framework trading combine sinkron penuh?"}
+]

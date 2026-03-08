@@ -1,0 +1,142 @@
+[
+  {
+    "id": "Q01",
+    "label": "strong",
+    "hit": 4,
+    "expected": 4,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q02",
+    "label": "strong",
+    "hit": 3,
+    "expected": 3,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q03",
+    "label": "strong",
+    "hit": 4,
+    "expected": 4,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q04",
+    "label": "strong",
+    "hit": 4,
+    "expected": 4,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q05",
+    "label": "noise",
+    "hit": 0,
+    "expected": 4,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q06",
+    "label": "strong",
+    "hit": 4,
+    "expected": 4,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q07",
+    "label": "strong",
+    "hit": 3,
+    "expected": 3,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q08",
+    "label": "strong",
+    "hit": 3,
+    "expected": 5,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q09",
+    "label": "strong",
+    "hit": 3,
+    "expected": 3,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q10",
+    "label": "strong",
+    "hit": 2,
+    "expected": 3,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q11",
+    "label": "strong",
+    "hit": 3,
+    "expected": 3,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q12",
+    "label": "noise",
+    "hit": 0,
+    "expected": 3,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q13",
+    "label": "noise",
+    "hit": 0,
+    "expected": 3,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q14",
+    "label": "noise",
+    "hit": 0,
+    "expected": 3,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q15",
+    "label": "noise",
+    "hit": 0,
+    "expected": 3,
+    "path": "memory/2026-03-05-1256.md"
+  },
+  {
+    "id": "Q16",
+    "label": "strong",
+    "hit": 13,
+    "expected": 13,
+    "path": "memory/2026-03-05-1432.md"
+  },
+  {
+    "id": "Q17",
+    "label": "strong",
+    "hit": 4,
+    "expected": 4,
+    "path": "memory/2026-03-05-1432.md"
+  },
+  {
+    "id": "Q18",
+    "label": "strong",
+    "hit": 1,
+    "expected": 1,
+    "path": "memory/2026-03-05-1432.md"
+  },
+  {
+    "id": "Q19",
+    "label": "strong",
+    "hit": 6,
+    "expected": 6,
+    "path": "memory/2026-03-05-1329.md"
+  },
+  {
+    "id": "Q20",
+    "label": "strong",
+    "hit": 3,
+    "expected": 3,
+    "path": "memory/2026-03-05-1256.md"
+  }
+]

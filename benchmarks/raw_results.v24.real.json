@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "Q01",
+    "query": "Di shortlist final consumer second liner, berapa entry range, cutloss, dan target profit pertama untuk MIDI?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "|---|---|---|---|---|---| | **MIDI** | Seasonal Ramadhan + defensif retail | Asing masih terlihat dukung beberapa sesi | Reclaim setelah shakeout | Entry 268\u2013276, CL <258, TP 290 / 304 | **LOLOS (A)** | | **ERAA** | Buyback + demand gadget | Net foreign campuran (5 Mar negatif, sebelumnya ada akumulasi kuat) | Re-accumulation C-D awal | Entry 408\u2013418, CL <39"
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.5294,
+        "snippet": "Kalau Bapak mau, saya lanjutkan **scan batch 2** (10\u201315 ticker lagi) dan kasih shortlist final **Top 5 paling \u201cclean\u201d** untuk eksekusi besok pagi. user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.2353,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.2353,
+        "snippet": "Saya akan mulai dengan mencari string \"groq\" di seluruh workspace menggunakan `find` dan `grep`. Itu langkah pertama saya. assistant: Perintah `find` masih berjalan. Saya harus memantau statusnya untuk melihat keluarannya."
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.1765,
+        "snippet": "aktifkan \"semua skill yang relevan dengan pasar saham\" assistant: [[reply_to_current]] Siap Pak, **sudah aktif semua skill yang relevan pasar saham** di sesi ini: **Narrative Trading, Insider Flow Monitor, Backdoor Screener, dan Price-Volume Checklist**. Langsung kirim aja objek analisisnya (ticker/watchlist), nanti saya eksekusi full stack."
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.1765,
+        "snippet": "1.  **Model Utama:** Semua menggunakan `openai/gpt-5.2-pro`. 2.  **Alias:** Saya rapikan juga aliasnya jadi `gpt-pro` (untuk 5.2-pro) dan `gpt` (untuk 5.2 biasa). 3.  **Auth Profile:** Profile `openai-codex` yang sudah tidak terpakai juga sudah saya buang."
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.1176,
+        "snippet": "halo assistant: <final>Halo, Pak Hinsyah. Gateway sudah berhasil di-restart dan sistem sekarang sudah bersih dari konfigurasi yang tidak perlu. Ada yang bisa saya bantu lagi, mungkin terkait update *market* atau hal teknis lainnya?</final> user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "AGENTS.md",
+        "score": 0.1176,
+        "snippet": "- Gunakan skill: `skills/self-improving-agent/SKILL.md`. - Log insiden/learning di `.learnings/` untuk review berkala."
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.0588,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.0588,
+        "snippet": "1) **07:00 WIB** \u2014 News collection (Kontan, CNBC Indonesia, IDX, Bloomberg Technoz, Emiten News) 2) **07:30 WIB** \u2014 Greeting + ringkasan Bloomberg Technoz (Sektor Riil & Market) untuk Pak Hinsyah"
+      }
+    ]
+  },
+  {
+    "id": "Q02",
+    "query": "Apa status kualitas MIDI pada tabel final dan apa narasi utamanya?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "|---|---|---|---|---|---| | **MIDI** | Seasonal Ramadhan + defensif retail | Asing masih terlihat dukung beberapa sesi | Reclaim setelah shakeout | Entry 268\u2013276, CL <258, TP 290 / 304 | **LOLOS (A)** | | **ERAA** | Buyback + demand gadget | Net foreign campuran (5 Mar negatif, sebelumnya ada akumulasi kuat) | Re-accumulation C-D awal | Entry 408\u2013418, CL <39"
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.5455,
+        "snippet": "Kalau Bapak mau, saya lanjutkan **scan batch 2** (10\u201315 ticker lagi) dan kasih shortlist final **Top 5 paling \u201cclean\u201d** untuk eksekusi besok pagi. user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.4545,
+        "snippet": "Dari konfigurasi yang baru saja kita atur, model `openai-codex/gpt-5.3-codex` adalah model utama yang saya gunakan. Setiap model AI memiliki karakteristik kecepatan dan kemampuan yang berbeda. Meskipun model ini sangat mumpuni dalam penalaran dan pemahaman, bisa jadi latensi responsnya sedikit lebih tinggi dibandingkan model yang fokus pada kecepatan tinggi "
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.3636,
+        "snippet": "Current time: Thursday, March 5th, 2026 \u2014 1:19 PM (UTC) assistant: Alert: Ada 2 task harian yang perlu dicek status eksekusinya hari ini (jadwal 07:00 & 07:30 WIB) \u2014 **news collection ke `news.db`** dan **greeting + ringkasan Bloomberg Technoz ke Pak Hinsyah**. user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.3636,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.3636,
+        "snippet": "Mungkin \"groq:manual static\" mengacu pada alias tertentu yang sebelumnya diatur untuk suatu model, dan alias itu sendiri menggunakan Groq, tetapi definisi alias tersebut tidak ada lagi atau diganti."
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.0909,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      },
+      {
+        "path": "memory/2026-03-05.md",
+        "score": 0.0909,
+        "snippet": "- **Cron Update:** Memperbarui semua tugas cron (GitHub Push, Maintenance, News Collection, News Greeting) untuk menggunakan model `openai/gpt-5.2` sesuai permintaan Pak Hinsyah. - **Status:** Gateway telah di-restart otomatis untuk menerapkan patch konfigurasi."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.0909,
+        "snippet": "- User Pak Hinsyah (ID 1721826632) confirmed preference that assistant should stay responsive in chat and not appear idle/bengong. - OpenAI Codex OAuth was refreshed by user; after restart, status showed normal quota again (5h 100%, week 100%). - Current Gemini setup uses OAuth account `hinsyahmarziani@gmail.com`; no active `GEMINI_API_KEY` found in config/e"
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.0909,
+        "snippet": "1.  **Model Utama:** Semua menggunakan `openai/gpt-5.2-pro`. 2.  **Alias:** Saya rapikan juga aliasnya jadi `gpt-pro` (untuk 5.2-pro) dan `gpt` (untuk 5.2 biasa). 3.  **Auth Profile:** Profile `openai-codex` yang sudah tidak terpakai juga sudah saya buang."
+      }
+    ]
+  },
+  {
+    "id": "Q03",
+    "query": "Untuk ERAA, sebutkan entry zone, batas cutloss, dan dua level TP pada setup final.",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "| **MIDI** | Seasonal Ramadhan + defensif retail | Asing masih terlihat dukung beberapa sesi | Reclaim setelah shakeout | Entry 268\u2013276, CL <258, TP 290 / 304 | **LOLOS (A)** | | **ERAA** | Buyback + demand gadget | Net foreign campuran (5 Mar negatif, sebelumnya ada akumulasi kuat) | Re-accumulation C-D awal | Entry 408\u2013418, CL <398, TP 432 / 458 | **LOLOS "
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.6,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Gas Pak, ini Top 20 second liner paling menarik (setup besok, prioritas eksekusi) versi gabungan framework:\\n\\n1) IRSX | Entry 500-510 | Cut <490 | TP 540/570/600 | Confidence: High\\n2) INCF | Entry 67-69 | Cut <63 | TP 73/78/82 | High (taktis, volatil)\\n3) VKTR | Entry 860-875 / BO >900 | Cut <840 | TP 950/1030 | High\\n4) BI"
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.2667,
+        "snippet": "Dari konfigurasi yang baru saja kita atur, model `openai-codex/gpt-5.3-codex` adalah model utama yang saya gunakan. Setiap model AI memiliki karakteristik kecepatan dan kemampuan yang berbeda. Meskipun model ini sangat mumpuni dalam penalaran dan pemahaman, bisa jadi latensi responsnya sedikit lebih tinggi dibandingkan model yang fokus pada kecepatan tinggi "
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.2,
+        "snippet": "1.  **Model Utama:** Semua menggunakan `openai/gpt-5.2-pro`. 2.  **Alias:** Saya rapikan juga aliasnya jadi `gpt-pro` (untuk 5.2-pro) dan `gpt` (untuk 5.2 biasa). 3.  **Auth Profile:** Profile `openai-codex` yang sudah tidak terpakai juga sudah saya buang."
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.2,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.2,
+        "snippet": "Mungkin \"groq:manual static\" mengacu pada alias tertentu yang sebelumnya diatur untuk suatu model, dan alias itu sendiri menggunakan Groq, tetapi definisi alias tersebut tidak ada lagi atau diganti."
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.1333,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, valid \u2014 saya cek langsung folder skills, dan isinya 10 skill:\\n\\n1. auto-heal\\n2. backdoor-screener\\n3. idx-momentum-pro\\n4. insider-flow-monitor\\n5. metode-wyckoff\\n6. narrative-trading\\n7. price-volume-checklist\\n8. self-improving-agent\\n9. serper-search\\n10. tavily-search\\n\\nJadi sebelumnya kurang teliti dari say"
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.0667,
+        "snippet": "1) **07:00 WIB** \u2014 News collection (Kontan, CNBC Indonesia, IDX, Bloomberg Technoz, Emiten News) 2) **07:30 WIB** \u2014 Greeting + ringkasan Bloomberg Technoz (Sektor Riil & Market) untuk Pak Hinsyah"
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.0667,
+        "snippet": "- Daily 07:00 WIB: news collection - Daily 07:30 WIB: greeting + ringkasan Bloomberg Technoz untuk Pak Hinsyah - Morning brief humanizer skill: market-brief-humanizer (khusus Morning Brief default)"
+      },
+      {
+        "path": "memory/2026-03-05.md",
+        "score": 0.0667,
+        "snippet": "- **Model Config:** Mengubah model default menjadi `openai/gpt-5.2` dengan daftar fallback terurut (gpt-5.2-pro, gemini-3-flash, gemini-3-pro, gemini-2.5-flash, MiniMax-M2.1, DeepSeek-V3, Kimi-K2.5). - **Cron Update:** Memperbarui semua tugas cron (GitHub Push, Maintenance, News Collection, News Greeting) untuk menggunakan model `openai/gpt-5.2` sesuai permi"
+      }
+    ]
+  },
+  {
+    "id": "Q04",
+    "query": "Apa alasan flow money ERAA disebut campuran pada 5 Mar?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "| **MIDI** | Seasonal Ramadhan + defensif retail | Asing masih terlihat dukung beberapa sesi | Reclaim setelah shakeout | Entry 268\u2013276, CL <258, TP 290 / 304 | **LOLOS (A)** | | **ERAA** | Buyback + demand gadget | Net foreign campuran (5 Mar negatif, sebelumnya ada akumulasi kuat) | Re-accumulation C-D awal | Entry 408\u2013418, CL <398, TP 432 / 458 | **LOLOS "
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.6364,
+        "snippet": "2) **Backdoor-Screener** \u2192 saring emiten dengan potensi aksi korporasi \u201cgame changer\u201d (RUPSLB/PP/akuisisi/reverse asset). 3) **IDX-Momentum-Pro** \u2192 validasi percepatan harga + kualitas money flow. 4) **Insider-Flow-Monitor** \u2192 cek materialitas insider (IIS), bukan cuma noise."
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.3636,
+        "snippet": "1) **backdoor-screener** \u2014 screening potensi backdoor listing/RTO (BEWS, trigger korporasi, flow money, Wyckoff, plan entry-cut-TP). 2) **insider-flow-monitor** \u2014 pantau aktivitas insider + materialitas transaksi + broker flow/momentum/Wyckoff."
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.2727,
+        "snippet": "Default : openai-codex/gpt-5.3-codex Fallbacks : google-gemini-cli/gemini-2.5-flash, google-gemini-cli/gemini-3-flash-preview, google-gemini-cli/gemini-3-pro-preview, synthetic/hf:MiniMaxAI/MiniMax-M2.5, synthetic/hf:moonshotai/Kimi-K2.5, synthetic/hf:zai-org/GLM-5"
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.2727,
+        "snippet": "- Owner/Architect: Pak Resa (1180265827) - Trader user: Pak Hinsyah (1721826632), fokus IDX (money flow, momentum, growth)"
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.2727,
+        "snippet": "2.  File `HEARTBEAT.md` lagi, karena mendefinisikan tugas berulang dan mungkin berisi nama model. 3.  File skill apa pun, karena mungkin memiliki nama model yang di-hardcode."
+      },
+      {
+        "path": "memory/2026-02-20.md",
+        "score": 0.1818,
+        "snippet": "- Updated profile: Logical Thinker / Investor. - Interests: IDX, Money Flow, Self-Upgrade. - Status: Priority Stakeholder (High)."
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.1818,
+        "snippet": "## Apa itu **single instance multi bot**?"
+      },
+      {
+        "path": "USER.md",
+        "score": 0.1818,
+        "snippet": "- Pak Resa [1180265827]: Owner/Architect, style efisien & emoji-friendly. - Pak Hinsyah [1721826632]: Swing/Day Trader, fokus IDX (money flow, momentum, growth)."
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.0909,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      }
+    ]
+  },
+  {
+    "id": "Q05",
+    "query": "Untuk ASSA, berapa zona entry pullback, invalidasi setup, dan TP lanjutan?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, ini trigger intraday live (langsung operasional) untuk shortlist tadi.\\n\\n1) MIDI (prioritas #1)\\n\\n\u2022 Trigger Buy Breakout: > 276 dengan volume menit/jam naik jelas\\n\u2022 Trigger Buy Pullback: area 268\u2013272 lalu mantul (bid tebal, sell pressure turun)\\n\u2022 Batal Setup: close < 258\\n\u2022 TP Intraday/Swing: 290 lalu 304\\n\u2022 Ris"
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.8182,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Gas Pak, ini Top 20 second liner paling menarik (setup besok, prioritas eksekusi) versi gabungan framework:\\n\\n1) IRSX | Entry 500-510 | Cut <490 | TP 540/570/600 | Confidence: High\\n2) INCF | Entry 67-69 | Cut <63 | TP 73/78/82 | High (taktis, volatil)\\n3) VKTR | Entry 860-875 / BO >900 | Cut <840 | TP 950/1030 | High\\n4) BI"
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.2727,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.1818,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, valid \u2014 saya cek langsung folder skills, dan isinya 10 skill:\\n\\n1. auto-heal\\n2. backdoor-screener\\n3. idx-momentum-pro\\n4. insider-flow-monitor\\n5. metode-wyckoff\\n6. narrative-trading\\n7. price-volume-checklist\\n8. self-improving-agent\\n9. serper-search\\n10. tavily-search\\n\\nJadi sebelumnya kurang teliti dari say"
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.1818,
+        "snippet": "halo assistant: <final>Halo, Pak Hinsyah. Gateway sudah berhasil di-restart dan sistem sekarang sudah bersih dari konfigurasi yang tidak perlu. Ada yang bisa saya bantu lagi, mungkin terkait update *market* atau hal teknis lainnya?</final> user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.1818,
+        "snippet": "1.  **Model Utama:** Semua menggunakan `openai/gpt-5.2-pro`. 2.  **Alias:** Saya rapikan juga aliasnya jadi `gpt-pro` (untuk 5.2-pro) dan `gpt` (untuk 5.2 biasa). 3.  **Auth Profile:** Profile `openai-codex` yang sudah tidak terpakai juga sudah saya buang."
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.1818,
+        "snippet": "Mungkin \"groq:manual static\" mengacu pada alias tertentu yang sebelumnya diatur untuk suatu model, dan alias itu sendiri menggunakan Groq, tetapi definisi alias tersebut tidak ada lagi atau diganti."
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.0909,
+        "snippet": "1) **07:00 WIB** \u2014 News collection (Kontan, CNBC Indonesia, IDX, Bloomberg Technoz, Emiten News) 2) **07:30 WIB** \u2014 Greeting + ringkasan Bloomberg Technoz (Sektor Riil & Market) untuk Pak Hinsyah"
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.0909,
+        "snippet": "- Daily 07:00 WIB: news collection - Daily 07:30 WIB: greeting + ringkasan Bloomberg Technoz untuk Pak Hinsyah - Morning brief humanizer skill: market-brief-humanizer (khusus Morning Brief default)"
+      },
+      {
+        "path": "memory/2026-03-05.md",
+        "score": 0.0909,
+        "snippet": "- **Model Config:** Mengubah model default menjadi `openai/gpt-5.2` dengan daftar fallback terurut (gpt-5.2-pro, gemini-3-flash, gemini-3-pro, gemini-2.5-flash, MiniMax-M2.1, DeepSeek-V3, Kimi-K2.5). - **Cron Update:** Memperbarui semua tugas cron (GitHub Push, Maintenance, News Collection, News Greeting) untuk menggunakan model `openai/gpt-5.2` sesuai permi"
+      }
+    ]
+  },
+  {
+    "id": "Q06",
+    "query": "Urutan prioritas eksekusi harian yang disebutkan setelah final shortlist apa saja?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "### Prioritas eksekusi hari ini **MIDI \u2192 ERAA \u2192 ASSA \u2192 WEHA** (dengan disiplin CL ketat dan size lebih kecil untuk WEHA/CSAP)."
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.6364,
+        "snippet": "Kalau Bapak mau, saya lanjutkan **scan batch 2** (10\u201315 ticker lagi) dan kasih shortlist final **Top 5 paling \u201cclean\u201d** untuk eksekusi besok pagi. user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.5455,
+        "snippet": "active model yang sekarang kamu gunakan apa ? user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.4545,
+        "snippet": "semua skill yang kamu punya sekarang apa saja ? assistant: [[reply_to_current]] Saat ini skill yang tersedia ke saya:"
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.4545,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.4545,
+        "snippet": "2.  File `HEARTBEAT.md` lagi, karena mendefinisikan tugas berulang dan mungkin berisi nama model. 3.  File skill apa pun, karena mungkin memiliki nama model yang di-hardcode."
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.1818,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.1818,
+        "snippet": "Prioritas: jalankan news collection dulu, lalu kirim greeting + ringkasan. user: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK."
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.1818,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Sudah beres Pak! Sekarang saya sudah pakai:\\n\\n\ud83e\udde0 Model: openai/gpt-5.2-pro\\n\\nTadi di level konfigurasi primary-nya sudah benar ke openai/gpt-5.2, tapi karena sistem mendeteksi ada versi -pro yang tersedia di profile Bapak, dia otomatis naik (upgrade) ke yang paling optimal.\\n\\nMau saya kunci (lock) persis ke openai/gpt-5.2 ("
+      },
+      {
+        "path": "memory/2026-03-05.md",
+        "score": 0.0909,
+        "snippet": "- 2026-03-05 00:36 UTC | Pak Hinsyah melaporkan sudah restart runtime OpenClaw setelah isu module missing (tool-loop-detection hash mismatch). Meminta japri Pak Resa terkait masalah runtime ini."
+      }
+    ]
+  },
+  {
+    "id": "Q07",
+    "query": "Ticker mana yang diklasifikasikan SPEK TERKONTROL dan berapa area entry-nya?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "| **RALS** | Seasonal demand mendukung | Flow moderat | Sideways to up bias | Entry saat breakout + volume, CL 4\u20135% | **WATCH (B-)** | | **CSAP** | Bisa ikut rotasi second liner | Likuiditas tipis, foreign sering \u201c-\u201d/nol | Sideways-speku | Entry kecil saja 286\u2013292, CL <278, TP 304 / 310 | **SPEK TERKONTROL (C+)** |"
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.3636,
+        "snippet": "Kasih saya **10\u201315 menit**, saya kirim ulang dalam format ketat: **Ticker | Data validasi | Entry-Cut-TP | Confidence | Alasan singkat** \u2014 fokus **second liner** dan yang benar-benar layak tembak. user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.2727,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, untuk pasar saham saya aktifkan mode kerja gabungan yang relevan: Narrative Trading (utama) + Insider Flow Monitor + Backdoor Screener + Price-Volume Checklist.\\nTinggal kasih perintah awalnya: mau cek narasi pasar hari ini, screening ticker, atau bedah 1 saham spesifik dulu?\" }"
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.2727,
+        "snippet": "Karena Pak Hinsyah secara khusus menyebutkan \"groq:manual static\", dan saya telah menguras file konfigurasi yang jelas, saya perlu mempertimbangkan skenario di mana \"manual static\" mengacu pada sesuatu yang di-hardcode dalam sistem OpenClaw itu sendiri, atau pengaturan persisten yang perlu dihapus secara eksplisit."
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.1818,
+        "snippet": "gito assistant: [[reply_to_current]] Siap Pak Hinsyah, saya standby. Mau lanjut yang mana?"
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.1818,
+        "snippet": "halo assistant: <final>Halo, Pak Hinsyah. Gateway sudah berhasil di-restart dan sistem sekarang sudah bersih dari konfigurasi yang tidak perlu. Ada yang bisa saya bantu lagi, mungkin terkait update *market* atau hal teknis lainnya?</final> user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.1818,
+        "snippet": "Sistem sudah segar pakai model **GPT-5.2 Pro** dan konfigurasi sudah bersih. Ada yang bisa saya bantu atau cek di market hari ini, Pak?"
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.1818,
+        "snippet": "**Single instance multi bot** = **1 mesin/1 aplikasi OpenClaw** yang jalan, tapi bisa ngelola **beberapa bot sekaligus** (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat."
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.0909,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      }
+    ]
+  },
+  {
+    "id": "Q08",
+    "query": "Dalam quick-scan relay, menu apa saja yang benar-benar dicek sebelum deep scan?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Fair point Pak \u2014 tadi cepat karena saya pakai quick-scan menu inti saja, bukan deep dive semua tab.\\n\\nYang saya cek via relay di halaman tiap ticker:\\n\\n1. Header price panel (last price, %change, volume vs avg volume)\\n2. Running Trade (indikasi dorong/tahan di menit akhir)\\n3. Broker Summary (top buyer/seller broker harian"
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.4615,
+        "snippet": "Sebelum itu, saya ingin pastikan lagi konfigurasi model yang baru saja saya terapkan sudah benar-benar aktif. Saya akan cek status model saya.</think> <final>Saya mengerti kekhawatiran Pak Hinsyah. Kelambatan ini mungkin terkait dengan model yang sedang saya gunakan, yaitu `openai-codex/gpt-5.3-codex`. Setiap model punya karakteristik kecepatan yang berbeda,"
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.3077,
+        "snippet": "semua skill yang kamu punya sekarang apa saja ? assistant: [[reply_to_current]] Saat ini skill yang tersedia ke saya:"
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.3077,
+        "snippet": "Kasih saya **10\u201315 menit**, saya kirim ulang dalam format ketat: **Ticker | Data validasi | Entry-Cut-TP | Confidence | Alasan singkat** \u2014 fokus **second liner** dan yang benar-benar layak tembak. user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.3077,
+        "snippet": "- **Agent main (Gito):** Sekarang sudah resmi pakai `openai/gpt-5.2` \u2705 - **Gateway:** Sudah saya restart lagi untuk memastikan sesi baru benar-benar pakai model yang Bapak minta."
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.3077,
+        "snippet": "2.  File `HEARTBEAT.md` lagi, karena mendefinisikan tugas berulang dan mungkin berisi nama model. 3.  File skill apa pun, karena mungkin memiliki nama model yang di-hardcode."
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.2308,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.1538,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.0769,
+        "snippet": "gito assistant: [[reply_to_current]] Siap Pak Hinsyah, saya standby. Mau lanjut yang mana?"
+      },
+      {
+        "path": "AGENTS.md",
+        "score": 0.0769,
+        "snippet": "## Approval Gate (Mandatory) - Wajib minta approval sebelum operasi runtime, config, identitas, destruktif, atau aksi proaktif eksternal. - Detail kondisi & validasi: Gunakan skill `approval-gate-details-skill.md`."
+      }
+    ]
+  },
+  {
+    "id": "Q09",
+    "query": "Ticker apa saja yang sudah benar-benar dicek detail via relay pada putaran awal?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "assistant: [[reply_to_current]] Jujur Pak: **belum semua per ticker**. Yang benar-benar saya cek via relay barusan itu baru **ERAA, MIDI, ASSA** (detail quick-scan). Sisanya masih level shortlist awal, belum relay deep-check satu per satu."
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.5385,
+        "snippet": "semua skill yang kamu punya sekarang apa saja ? assistant: [[reply_to_current]] Saat ini skill yang tersedia ke saya:"
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.5385,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak. Ini saya kirim daftar besar kandidat second liner yang bisa kita jadikan universe scan awal (sebanyak mungkin dulu, nanti saya saring ketat pakai framework gabungan):\\n\\nEnergy/Mining & turunannya\\nADMR, BESS, DEWA, DOID, HRUM, INDY, ITMG, KKGI, MBAP, MEDC, MITI, PTBA, PTRO, RAJA, TOBA, AIMS, BRMS, PSAB, ANTM, DKFT\\"
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.4615,
+        "snippet": "Sebelum itu, saya ingin pastikan lagi konfigurasi model yang baru saja saya terapkan sudah benar-benar aktif. Saya akan cek status model saya.</think> <final>Saya mengerti kekhawatiran Pak Hinsyah. Kelambatan ini mungkin terkait dengan model yang sedang saya gunakan, yaitu `openai-codex/gpt-5.3-codex`. Setiap model punya karakteristik kecepatan yang berbeda,"
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.4615,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.3846,
+        "snippet": "- **Agent main (Gito):** Sekarang sudah resmi pakai `openai/gpt-5.2` \u2705 - **Gateway:** Sudah saya restart lagi untuk memastikan sesi baru benar-benar pakai model yang Bapak minta."
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.3846,
+        "snippet": "Saya akan memeriksa variabel lingkungan yang mungkin memaksa model. Saya akan menjalankan perintah `env`. assistant: Saya sudah memeriksa variabel lingkungan menggunakan perintah `env`. Saya tidak melihat variabel lingkungan apa pun yang secara eksplisit menyebutkan \"GROQ\" atau `GROQ_API_KEY`, `GROQ_MODEL`, dll."
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.2308,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      },
+      {
+        "path": "memory/2026-03-07.md",
+        "score": 0.0769,
+        "snippet": "- User approved continuing tuning iteration (\"sikat, lanjut\"). - Applied live config tuning v1: `agents.defaults.memorySearch.query.minScore` raised from `0.20` to `0.25` via `gateway config.patch`, gateway restarted successfully. - Current memorySearch runtime remains local/hybrid with embedding model reported as `embeddinggemma-300m-qat-Q8_0.gguf`."
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.0769,
+        "snippet": "gito assistant: [[reply_to_current]] Siap Pak Hinsyah, saya standby. Mau lanjut yang mana?"
+      }
+    ]
+  },
+  {
+    "id": "Q10",
+    "query": "Apa revisi keputusan trading untuk MIDI setelah evaluasi struktur daily downtrend?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "assistant: [[reply_to_current]] Setuju Pak, bacaan Bapak valid \ud83d\udc4d Dengan struktur daily kayak gitu (masih **downtrend**) + orderbook \u201cbid tebal\u201d yang bisa jadi umpan, **MIDI saya turunkan jadi NO TRADE dulu** sampai ada bukti reversal beneran."
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.2727,
+        "snippet": "assistant: [[reply_to_current]] Siap Pak, untuk pasar saham saya aktifkan mode kerja gabungan yang relevan: **Narrative Trading (utama)** + **Insider Flow Monitor** + **Backdoor Screener** + **Price-Volume Checklist**. Tinggal kasih perintah awalnya: mau **cek narasi pasar hari ini**, **screening ticker**, atau **bedah 1 saham spesifik** dulu?"
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.2727,
+        "snippet": "2.  **Kompleksitas Tugas:** Semakin kompleks perintah yang Bapak berikan, semakin banyak \"pemikiran\" yang saya butuhkan, yang tentu memakan waktu. 3.  **Persepsi:** Setelah mengalami beberapa kali kelambatan sebelumnya, mungkin ada persepsi bahwa saya masih lambat meskipun sebenarnya sudah dalam batas normal untuk model yang digunakan."
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.2727,
+        "snippet": "- **Plan**: Entry hanya kalau bertahan di 67\u201369, **Cut <63**, TP 73 \u2192 78 \u2192 82. - Catatan: ini high-beta, cocok untuk taktis cepat."
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.2727,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.2727,
+        "snippet": "Mari gunakan `gateway config.get` untuk melihat konfigurasi saat ini. assistant: Oke, saya sudah mendapatkan konfigurasi OpenClaw lengkapnya. Setelah meninjau output yang ekstensif, saya menemukan referensi \"groq\". Tidak secara eksplisit ada di bagian `models.providers` atau `agents.defaults.model.fallbacks`, tetapi secara implisit digunakan oleh `google-gem"
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.1818,
+        "snippet": "- Daily 07:00 WIB: news collection - Daily 07:30 WIB: greeting + ringkasan Bloomberg Technoz untuk Pak Hinsyah - Morning brief humanizer skill: market-brief-humanizer (khusus Morning Brief default)"
+      },
+      {
+        "path": "memory/2026-03-05.md",
+        "score": 0.1818,
+        "snippet": "- 2026-03-05 00:36 UTC | Pak Hinsyah melaporkan sudah restart runtime OpenClaw setelah isu module missing (tool-loop-detection hash mismatch). Meminta japri Pak Resa terkait masalah runtime ini."
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.1818,
+        "snippet": "- [Daily 07:00 WIB] News collection (Kontan, CNBC Indonesia, IDX, Bloomberg Technoz, Emiten News). - [Daily 07:30 WIB] Greeting + ringkasan Bloomberg Technoz (Sektor Riil & Market) untuk Pak Hinsyah."
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.0909,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      }
+    ]
+  },
+  {
+    "id": "Q11",
+    "query": "Trigger buy breakout dan trigger buy pullback untuk MIDI versi intraday live berapa?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, ini trigger intraday live (langsung operasional) untuk shortlist tadi.\\n\\n1) MIDI (prioritas #1)\\n\\n\u2022 Trigger Buy Breakout: > 276 dengan volume menit/jam naik jelas\\n\u2022 Trigger Buy Pullback: area 268\u2013272 lalu mantul (bid tebal, sell pressure turun)\\n\u2022 Batal Setup: close < 258\\n\u2022 TP Intraday/Swing: 290 lalu 304\\n\u2022 Ris"
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.89,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Gas Pak, ini Top 20 second liner paling menarik (setup besok, prioritas eksekusi) versi gabungan framework:\\n\\n1) IRSX | Entry 500-510 | Cut <490 | TP 540/570/600 | Confidence: High\\n2) INCF | Entry 67-69 | Cut <63 | TP 73/78/82 | High (taktis, volatil)\\n3) VKTR | Entry 860-875 / BO >900 | Cut <840 | TP 950/1030 | High\\n4) BI"
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.2727,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, valid \u2014 saya cek langsung folder skills, dan isinya 10 skill:\\n\\n1. auto-heal\\n2. backdoor-screener\\n3. idx-momentum-pro\\n4. insider-flow-monitor\\n5. metode-wyckoff\\n6. narrative-trading\\n7. price-volume-checklist\\n8. self-improving-agent\\n9. serper-search\\n10. tavily-search\\n\\nJadi sebelumnya kurang teliti dari say"
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.2727,
+        "snippet": "1.  **Model Utama:** Semua menggunakan `openai/gpt-5.2-pro`. 2.  **Alias:** Saya rapikan juga aliasnya jadi `gpt-pro` (untuk 5.2-pro) dan `gpt` (untuk 5.2 biasa). 3.  **Auth Profile:** Profile `openai-codex` yang sudah tidak terpakai juga sudah saya buang."
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.2727,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.2727,
+        "snippet": "*   `./users/1721826632/pairing_alert_state.json` - Ini spesifik pengguna, tetapi kecil kemungkinannya untuk menyimpan konfigurasi model. *   File di bawah `@google/gemini-cli-core` dan `@google/gemini-cli`: Ini juga `node_modules` tetapi terkait dengan Gemini. Meskipun seharusnya tidak berisi konfigurasi spesifik *saya*, ada kemungkinan beberapa default dia"
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.1818,
+        "snippet": "halo assistant: <final>Halo, Pak Hinsyah. Gateway sudah berhasil di-restart dan sistem sekarang sudah bersih dari konfigurasi yang tidak perlu. Ada yang bisa saya bantu lagi, mungkin terkait update *market* atau hal teknis lainnya?</final> user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-07.md",
+        "score": 0.0909,
+        "snippet": "- User approved continuing tuning iteration (\"sikat, lanjut\"). - Applied live config tuning v1: `agents.defaults.memorySearch.query.minScore` raised from `0.20` to `0.25` via `gateway config.patch`, gateway restarted successfully. - Current memorySearch runtime remains local/hybrid with embedding model reported as `embeddinggemma-300m-qat-Q8_0.gguf`."
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.0909,
+        "snippet": "1) **07:00 WIB** \u2014 News collection (Kontan, CNBC Indonesia, IDX, Bloomberg Technoz, Emiten News) 2) **07:30 WIB** \u2014 Greeting + ringkasan Bloomberg Technoz (Sektor Riil & Market) untuk Pak Hinsyah"
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.0909,
+        "snippet": "- Daily 07:00 WIB: news collection - Daily 07:30 WIB: greeting + ringkasan Bloomberg Technoz untuk Pak Hinsyah - Morning brief humanizer skill: market-brief-humanizer (khusus Morning Brief default)"
+      }
+    ]
+  },
+  {
+    "id": "Q12",
+    "query": "Untuk ERAA intraday live, level breakout aman tambahan ada di harga berapa?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, ini trigger intraday live (langsung operasional) untuk shortlist tadi.\\n\\n1) MIDI (prioritas #1)\\n\\n\u2022 Trigger Buy Breakout: > 276 dengan volume menit/jam naik jelas\\n\u2022 Trigger Buy Pullback: area 268\u2013272 lalu mantul (bid tebal, sell pressure turun)\\n\u2022 Batal Setup: close < 258\\n\u2022 TP Intraday/Swing: 290 lalu 304\\n\u2022 Ris"
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.6923,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Gas Pak, ini Top 20 second liner paling menarik (setup besok, prioritas eksekusi) versi gabungan framework:\\n\\n1) IRSX | Entry 500-510 | Cut <490 | TP 540/570/600 | Confidence: High\\n2) INCF | Entry 67-69 | Cut <63 | TP 73/78/82 | High (taktis, volatil)\\n3) VKTR | Entry 860-875 / BO >900 | Cut <840 | TP 950/1030 | High\\n4) BI"
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.3077,
+        "snippet": "Tadi di level konfigurasi `primary`-nya sudah benar ke `openai/gpt-5.2`, tapi karena sistem mendeteksi ada versi `-pro` yang tersedia di profile Bapak, dia otomatis naik (upgrade) ke yang paling optimal."
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.3077,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.2308,
+        "snippet": "emua skill di luar daftar ini juga assistant: [[reply_to_current]] Betul Pak, saat ini **tidak ada skill lain di luar 6 itu** yang terdaftar untuk sesi ini. Kalau Pak mau, saya bisa bantu **tambahkan skill baru** (install/daftarkan) sesuai kebutuhan strategi trading Pak."
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.2308,
+        "snippet": "2.  **Kompleksitas Tugas:** Semakin kompleks perintah yang Bapak berikan, semakin banyak \"pemikiran\" yang saya butuhkan, yang tentu memakan waktu. 3.  **Persepsi:** Setelah mengalami beberapa kali kelambatan sebelumnya, mungkin ada persepsi bahwa saya masih lambat meskipun sebenarnya sudah dalam batas normal untuk model yang digunakan."
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.2308,
+        "snippet": "Mari gunakan `gateway config.get` untuk melihat konfigurasi saat ini. assistant: Oke, saya sudah mendapatkan konfigurasi OpenClaw lengkapnya. Setelah meninjau output yang ekstensif, saya menemukan referensi \"groq\". Tidak secara eksplisit ada di bagian `models.providers` atau `agents.defaults.model.fallbacks`, tetapi secara implisit digunakan oleh `google-gem"
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.1538,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.1538,
+        "snippet": "assistant: [[reply_to_current]] \u26a0\ufe0f Ada task **overdue** hari ini: 1) **07:00 WIB** \u2014 News collection (Kontan, CNBC Indonesia, IDX, Bloomberg Technoz, Emiten News)"
+      },
+      {
+        "path": "AGENTS.md",
+        "score": 0.1538,
+        "snippet": "- Gunakan skill: `skills/self-improving-agent/SKILL.md`. - Log insiden/learning di `.learnings/` untuk review berkala."
+      }
+    ]
+  },
+  {
+    "id": "Q13",
+    "query": "Untuk ASSA intraday live, konfirmasi breakout kuat disebut di atas level berapa?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, ini trigger intraday live (langsung operasional) untuk shortlist tadi.\\n\\n1) MIDI (prioritas #1)\\n\\n\u2022 Trigger Buy Breakout: > 276 dengan volume menit/jam naik jelas\\n\u2022 Trigger Buy Pullback: area 268\u2013272 lalu mantul (bid tebal, sell pressure turun)\\n\u2022 Batal Setup: close < 258\\n\u2022 TP Intraday/Swing: 290 lalu 304\\n\u2022 Ris"
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.7692,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Gas Pak, ini Top 20 second liner paling menarik (setup besok, prioritas eksekusi) versi gabungan framework:\\n\\n1) IRSX | Entry 500-510 | Cut <490 | TP 540/570/600 | Confidence: High\\n2) INCF | Entry 67-69 | Cut <63 | TP 73/78/82 | High (taktis, volatil)\\n3) VKTR | Entry 860-875 / BO >900 | Cut <840 | TP 950/1030 | High\\n4) BI"
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.2308,
+        "snippet": "Tadi di level konfigurasi `primary`-nya sudah benar ke `openai/gpt-5.2`, tapi karena sistem mendeteksi ada versi `-pro` yang tersedia di profile Bapak, dia otomatis naik (upgrade) ke yang paling optimal."
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.2308,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.1538,
+        "snippet": "emua skill di luar daftar ini juga assistant: [[reply_to_current]] Betul Pak, saat ini **tidak ada skill lain di luar 6 itu** yang terdaftar untuk sesi ini. Kalau Pak mau, saya bisa bantu **tambahkan skill baru** (install/daftarkan) sesuai kebutuhan strategi trading Pak."
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.1538,
+        "snippet": "Mari gunakan `gateway config.get` untuk melihat konfigurasi saat ini. assistant: Oke, saya sudah mendapatkan konfigurasi OpenClaw lengkapnya. Setelah meninjau output yang ekstensif, saya menemukan referensi \"groq\". Tidak secara eksplisit ada di bagian `models.providers` atau `agents.defaults.model.fallbacks`, tetapi secara implisit digunakan oleh `google-gem"
+      },
+      {
+        "path": "AGENTS.md",
+        "score": 0.1538,
+        "snippet": "- Gunakan skill: `skills/self-improving-agent/SKILL.md`. - Log insiden/learning di `.learnings/` untuk review berkala."
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.0769,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      },
+      {
+        "path": "memory/2026-03-07.md",
+        "score": 0.0769,
+        "snippet": "- User approved continuing tuning iteration (\"sikat, lanjut\"). - Applied live config tuning v1: `agents.defaults.memorySearch.query.minScore` raised from `0.20` to `0.25` via `gateway config.patch`, gateway restarted successfully. - Current memorySearch runtime remains local/hybrid with embedding model reported as `embeddinggemma-300m-qat-Q8_0.gguf`."
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.0769,
+        "snippet": "1) **07:00 WIB** \u2014 News collection (Kontan, CNBC Indonesia, IDX, Bloomberg Technoz, Emiten News) 2) **07:30 WIB** \u2014 Greeting + ringkasan Bloomberg Technoz (Sektor Riil & Market) untuk Pak Hinsyah"
+      }
+    ]
+  },
+  {
+    "id": "Q14",
+    "query": "Apa risk note khusus untuk WEHA dan bagaimana arahan sizing posisinya?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, ini trigger intraday live (langsung operasional) untuk shortlist tadi.\\n\\n1) MIDI (prioritas #1)\\n\\n\u2022 Trigger Buy Breakout: > 276 dengan volume menit/jam naik jelas\\n\u2022 Trigger Buy Pullback: area 268\u2013272 lalu mantul (bid tebal, sell pressure turun)\\n\u2022 Batal Setup: close < 258\\n\u2022 TP Intraday/Swing: 290 lalu 304\\n\u2022 Ris"
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.4545,
+        "snippet": "Mungkin \"groq:manual static\" mengacu pada alias tertentu yang sebelumnya diatur untuk suatu model, dan alias itu sendiri menggunakan Groq, tetapi definisi alias tersebut tidak ada lagi atau diganti."
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.3636,
+        "snippet": "Kalau mau, saya lanjut scan batch berikutnya (mis. **BNBR, BIPI, VKTR, BUVA, BRMS, MBMA, MINA, DEWA, PTRO, MEDC**) dan saya kirim shortlist khusus yang **offer-wall dominan**. user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.2727,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, valid \u2014 saya cek langsung folder skills, dan isinya 10 skill:\\n\\n1. auto-heal\\n2. backdoor-screener\\n3. idx-momentum-pro\\n4. insider-flow-monitor\\n5. metode-wyckoff\\n6. narrative-trading\\n7. price-volume-checklist\\n8. self-improving-agent\\n9. serper-search\\n10. tavily-search\\n\\nJadi sebelumnya kurang teliti dari say"
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.2727,
+        "snippet": "halo assistant: <final>Halo, Pak Hinsyah. Gateway sudah berhasil di-restart dan sistem sekarang sudah bersih dari konfigurasi yang tidak perlu. Ada yang bisa saya bantu lagi, mungkin terkait update *market* atau hal teknis lainnya?</final> user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.2727,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.1818,
+        "snippet": "- Daily 07:00 WIB: news collection - Daily 07:30 WIB: greeting + ringkasan Bloomberg Technoz untuk Pak Hinsyah - Morning brief humanizer skill: market-brief-humanizer (khusus Morning Brief default)"
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.1818,
+        "snippet": "1.  **Model Utama:** Semua menggunakan `openai/gpt-5.2-pro`. 2.  **Alias:** Saya rapikan juga aliasnya jadi `gpt-pro` (untuk 5.2-pro) dan `gpt` (untuk 5.2 biasa). 3.  **Auth Profile:** Profile `openai-codex` yang sudah tidak terpakai juga sudah saya buang."
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.0909,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.0909,
+        "snippet": "1) **07:00 WIB** \u2014 News collection (Kontan, CNBC Indonesia, IDX, Bloomberg Technoz, Emiten News) 2) **07:30 WIB** \u2014 Greeting + ringkasan Bloomberg Technoz (Sektor Riil & Market) untuk Pak Hinsyah"
+      }
+    ]
+  },
+  {
+    "id": "Q15",
+    "query": "Apa risk note untuk CSAP dan kenapa disarankan lot kecil?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, ini trigger intraday live (langsung operasional) untuk shortlist tadi.\\n\\n1) MIDI (prioritas #1)\\n\\n\u2022 Trigger Buy Breakout: > 276 dengan volume menit/jam naik jelas\\n\u2022 Trigger Buy Pullback: area 268\u2013272 lalu mantul (bid tebal, sell pressure turun)\\n\u2022 Batal Setup: close < 258\\n\u2022 TP Intraday/Swing: 290 lalu 304\\n\u2022 Ris"
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.3636,
+        "snippet": "halo assistant: <final>Halo, Pak Hinsyah. Gateway sudah berhasil di-restart dan sistem sekarang sudah bersih dari konfigurasi yang tidak perlu. Ada yang bisa saya bantu lagi, mungkin terkait update *market* atau hal teknis lainnya?</final> user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.3636,
+        "snippet": "Kalau Bapak mau, saya lanjutkan **scan batch 2** (10\u201315 ticker lagi) dan kasih shortlist final **Top 5 paling \u201cclean\u201d** untuk eksekusi besok pagi. user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.3636,
+        "snippet": "*   `./.openclaw/workspace-state.json` - Ini mungkin berisi status internal OpenClaw yang mungkin mereferensikan model lama. *   `./users/1721826632/pairing_alert_state.json` - Ini spesifik pengguna, tetapi kecil kemungkinannya untuk menyimpan konfigurasi model. *   File di bawah `@google/gemini-cli-core` dan `@google/gemini-cli`: Ini juga `node_modules` tet"
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.2727,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, valid \u2014 saya cek langsung folder skills, dan isinya 10 skill:\\n\\n1. auto-heal\\n2. backdoor-screener\\n3. idx-momentum-pro\\n4. insider-flow-monitor\\n5. metode-wyckoff\\n6. narrative-trading\\n7. price-volume-checklist\\n8. self-improving-agent\\n9. serper-search\\n10. tavily-search\\n\\nJadi sebelumnya kurang teliti dari say"
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.2727,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.1818,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.1818,
+        "snippet": "1.  **Model Utama:** Semua menggunakan `openai/gpt-5.2-pro`. 2.  **Alias:** Saya rapikan juga aliasnya jadi `gpt-pro` (untuk 5.2-pro) dan `gpt` (untuk 5.2 biasa). 3.  **Auth Profile:** Profile `openai-codex` yang sudah tidak terpakai juga sudah saya buang."
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.0909,
+        "snippet": "1) **07:00 WIB** \u2014 News collection (Kontan, CNBC Indonesia, IDX, Bloomberg Technoz, Emiten News) 2) **07:30 WIB** \u2014 Greeting + ringkasan Bloomberg Technoz (Sektor Riil & Market) untuk Pak Hinsyah"
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.0909,
+        "snippet": "- Daily 07:00 WIB: news collection - Daily 07:30 WIB: greeting + ringkasan Bloomberg Technoz untuk Pak Hinsyah - Morning brief humanizer skill: market-brief-humanizer (khusus Morning Brief default)"
+      }
+    ]
+  },
+  {
+    "id": "Q16",
+    "query": "Dalam universe scan besar consumer/trading second liner, ticker apa saja yang disebut bersama ERAA dan MIDI?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.96,
+        "snippet": "**Consumer/trading second liner** ERAA, MAPI, RALS, MIDI, ACES, AMRT, MAPB, FAST, CLEO, GOOD, HOKI, ROTI, ULTJ"
+      },
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.4706,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, eksekusi relay done.\\nSaya rilis yang lolos kualitas dulu (boleh kurang dari 10 sesuai instruksi Bapak).\\n\\nConsumer/Retail (second liner) \u2014 FINAL\\n\\n| Ticker | Narrative                           | Flow Money                                                          | Wyckoff                  | Entry Plan           "
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.3529,
+        "snippet": "Dari konfigurasi yang baru saja kita atur, model `openai-codex/gpt-5.3-codex` adalah model utama yang saya gunakan. Setiap model AI memiliki karakteristik kecepatan dan kemampuan yang berbeda. Meskipun model ini sangat mumpuni dalam penalaran dan pemahaman, bisa jadi latensi responsnya sedikit lebih tinggi dibandingkan model yang fokus pada kecepatan tinggi "
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.3529,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.3529,
+        "snippet": "Saya akan mulai dengan mencari `config.json`, `config.yaml`, `config.js`, atau file serupa di ruang kerja. assistant: Banyak sekali file! Kebanyakan adalah file `package.json`, `.yml`, `.json` dalam `node_modules` yang merupakan dependensi dan bukan konfigurasi langsung. Namun, beberapa file menonjol:"
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.2941,
+        "snippet": "semua skill yang kamu punya sekarang apa saja ? assistant: [[reply_to_current]] Saat ini skill yang tersedia ke saya:"
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.1765,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Sudah beres Pak! Sekarang saya sudah pakai:\\n\\n\ud83e\udde0 Model: openai/gpt-5.2-pro\\n\\nTadi di level konfigurasi primary-nya sudah benar ke openai/gpt-5.2, tapi karena sistem mendeteksi ada versi -pro yang tersedia di profile Bapak, dia otomatis naik (upgrade) ke yang paling optimal.\\n\\nMau saya kunci (lock) persis ke openai/gpt-5.2 ("
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.1176,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.0588,
+        "snippet": "gito assistant: [[reply_to_current]] Siap Pak Hinsyah, saya standby. Mau lanjut yang mana?"
+      }
+    ]
+  },
+  {
+    "id": "Q17",
+    "query": "Pada top 20 paling menarik, setup IRSX mencakup entry, cut, dan tiga target TP berapa?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.96,
+        "snippet": "`1) IRSX | Entry 500-510 | Cut <490 | TP 540/570/600 | Confidence: High` `2) INCF | Entry 67-69 | Cut <63 | TP 73/78/82 | High (taktis, volatil)`"
+      },
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.5333,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, eksekusi relay done.\\nSaya rilis yang lolos kualitas dulu (boleh kurang dari 10 sesuai instruksi Bapak).\\n\\nConsumer/Retail (second liner) \u2014 FINAL\\n\\n| Ticker | Narrative                           | Flow Money                                                          | Wyckoff                  | Entry Plan           "
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.2667,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.2,
+        "snippet": "aktifkan \"semua skill yang relevan dengan pasar saham\" assistant: [[reply_to_current]] Siap Pak, **sudah aktif semua skill yang relevan pasar saham** di sesi ini: **Narrative Trading, Insider Flow Monitor, Backdoor Screener, dan Price-Volume Checklist**. Langsung kirim aja objek analisisnya (ticker/watchlist), nanti saya eksekusi full stack."
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.2,
+        "snippet": "Mungkin \"groq:manual static\" mengacu pada alias tertentu yang sebelumnya diatur untuk suatu model, dan alias itu sendiri menggunakan Groq, tetapi definisi alias tersebut tidak ada lagi atau diganti."
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.1333,
+        "snippet": "Dari konfigurasi yang baru saja kita atur, model `openai-codex/gpt-5.3-codex` adalah model utama yang saya gunakan. Setiap model AI memiliki karakteristik kecepatan dan kemampuan yang berbeda. Meskipun model ini sangat mumpuni dalam penalaran dan pemahaman, bisa jadi latensi responsnya sedikit lebih tinggi dibandingkan model yang fokus pada kecepatan tinggi "
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.1333,
+        "snippet": "Tadi di level konfigurasi `primary`-nya sudah benar ke `openai/gpt-5.2`, tapi karena sistem mendeteksi ada versi `-pro` yang tersedia di profile Bapak, dia otomatis naik (upgrade) ke yang paling optimal."
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.0667,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      },
+      {
+        "path": "memory/2026-03-07.md",
+        "score": 0.0667,
+        "snippet": "- Repo includes: benchmark protocol, 20-query mini benchmark set, baseline results, tuning configs, scripts skeleton, and NEXT_STEPS handover for continuation by other agents. - Baseline benchmark snapshot documented: Strong 35%, Partial 20%, Noise 45% (Top-1 over 20 queries). - User approved continuing tuning iteration (\"sikat, lanjut\")."
+      },
+      {
+        "path": "memory/2026-03-06.md",
+        "score": 0.0667,
+        "snippet": "- OpenAI Codex OAuth was refreshed by user; after restart, status showed normal quota again (5h 100%, week 100%). - Current Gemini setup uses OAuth account `hinsyahmarziani@gmail.com`; no active `GEMINI_API_KEY` found in config/env. - Memory search currently configured with provider `gemini`, which expects API-key-based embedding for indexing (causing \"No AP"
+      }
+    ]
+  },
+  {
+    "id": "Q18",
+    "query": "Apa format output final yang diwajibkan setelah gabungan framework trading dijalankan?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.96,
+        "snippet": "5) **Metode-Wyckoff** \u2192 tentukan fase (akumulasi/markup/distribusi) + area invalidasi. 6) **Price-Volume-Checklist** \u2192 keluaran final siap eksekusi: **Ticker | Tesis | Entry | Cut | TP | Confidence**."
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.5455,
+        "snippet": "assistant: [[reply_to_current]] Siap Pak, untuk pasar saham saya aktifkan mode kerja gabungan yang relevan: **Narrative Trading (utama)** + **Insider Flow Monitor** + **Backdoor Screener** + **Price-Volume Checklist**. Tinggal kasih perintah awalnya: mau **cek narasi pasar hari ini**, **screening ticker**, atau **bedah 1 saham spesifik** dulu?"
+      },
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.5455,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, eksekusi relay done.\\nSaya rilis yang lolos kualitas dulu (boleh kurang dari 10 sesuai instruksi Bapak).\\n\\nConsumer/Retail (second liner) \u2014 FINAL\\n\\n| Ticker | Narrative                           | Flow Money                                                          | Wyckoff                  | Entry Plan           "
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.3636,
+        "snippet": "Mari gunakan `gateway config.get` untuk melihat konfigurasi saat ini. assistant: Oke, saya sudah mendapatkan konfigurasi OpenClaw lengkapnya. Setelah meninjau output yang ekstensif, saya menemukan referensi \"groq\". Tidak secara eksplisit ada di bagian `models.providers` atau `agents.defaults.model.fallbacks`, tetapi secara implisit digunakan oleh `google-gem"
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.2727,
+        "snippet": "active model yang sekarang kamu gunakan apa ? user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.2727,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.1818,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.0909,
+        "snippet": "gito assistant: [[reply_to_current]] Siap Pak Hinsyah, saya standby. Mau lanjut yang mana?"
+      },
+      {
+        "path": "memory/2026-03-05.md",
+        "score": 0.0909,
+        "snippet": "- 2026-03-05 00:36 UTC | Pak Hinsyah melaporkan sudah restart runtime OpenClaw setelah isu module missing (tool-loop-detection hash mismatch). Meminta japri Pak Resa terkait masalah runtime ini."
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.0909,
+        "snippet": "ini modelnya masih sama kayak sebelumnya assistant: [[reply_to_current]] Maaf Pak, saya tadi kurang teliti. Ternyata di bagian `agents.list`, agent `main` (saya) masih dikunci secara manual ke model `openai-codex/gpt-5.3-codex`, makanya perubahan global tadi tidak ngefek ke sesi yang sedang jalan."
+      }
+    ]
+  },
+  {
+    "id": "Q19",
+    "query": "Sebutkan enam skill market yang dinyatakan paling relevan untuk analisis saham.",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.96,
+        "snippet": "Jadi sebelumnya kurang teliti dari saya. Untuk pasar saham, yang relevan utama: **backdoor-screener, idx-momentum-pro, insider-flow-monitor, metode-wyckoff, narrative-trading, price-volume-checklist**. user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.5455,
+        "snippet": "aktifkan semua skill yang relevan dengan pasar saham assistant: [[reply_to_current]] Siap Pak \u2014 sudah saya cek config runtime, dan **semua skill pasar saham sebenarnya sudah terdaftar di agent `main`** (termasuk `idx-momentum-pro` + `metode-wyckoff` + framework lain)."
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.4545,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.3636,
+        "snippet": "assistant: [[reply_to_current]] Siap Pak, dari scan **orderbook live** yang kebuka sekarang, yang paling jelas **top 6 level didominasi offer tebal** adalah:"
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.3636,
+        "snippet": "- **Agent main (Gito):** Sekarang sudah resmi pakai `openai/gpt-5.2` \u2705 - **Gateway:** Sudah saya restart lagi untuk memastikan sesi baru benar-benar pakai model yang Bapak minta."
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.3636,
+        "snippet": "Mari saya tinjau direktori `skills`. Saya akan membaca `SKILL.md` untuk `serper-search` dan `tavily-search` terlebih dahulu, karena ini terkait pencarian web dan mungkin memiliki penyedia yang ditentukan."
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.2727,
+        "snippet": "1) **07:00 WIB** \u2014 News collection (Kontan, CNBC Indonesia, IDX, Bloomberg Technoz, Emiten News) 2) **07:30 WIB** \u2014 Greeting + ringkasan Bloomberg Technoz (Sektor Riil & Market) untuk Pak Hinsyah"
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.2727,
+        "snippet": "halo assistant: <final>Halo, Pak Hinsyah. Gateway sudah berhasil di-restart dan sistem sekarang sudah bersih dari konfigurasi yang tidak perlu. Ada yang bisa saya bantu lagi, mungkin terkait update *market* atau hal teknis lainnya?</final> user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "HEARTBEAT.md",
+        "score": 0.2727,
+        "snippet": "- [Daily 07:00 WIB] News collection (Kontan, CNBC Indonesia, IDX, Bloomberg Technoz, Emiten News). - [Daily 07:30 WIB] Greeting + ringkasan Bloomberg Technoz (Sektor Riil & Market) untuk Pak Hinsyah."
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.1818,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      }
+    ]
+  },
+  {
+    "id": "Q20",
+    "query": "Apa perintah operasional yang disarankan untuk reset sesi agar framework trading combine sinkron penuh?",
+    "candidates": [
+      {
+        "path": "memory/2026-03-05-1256.md",
+        "score": 0.96,
+        "snippet": "Artinya bukan \u201cmati\u201d, tapi sesi ini sempat baca daftar subset. Biar sinkron full di percakapan, paling bersih tinggal **/new** (reset session) \u2014 habis itu saya langsung pakai combine semua framework trading otomatis."
+      },
+      {
+        "path": "memory/2026-03-05-1329.md",
+        "score": 0.6,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, untuk pasar saham saya aktifkan mode kerja gabungan yang relevan: Narrative Trading (utama) + Insider Flow Monitor + Backdoor Screener + Price-Volume Checklist.\\nTinggal kasih perintah awalnya: mau cek narasi pasar hari ini, screening ticker, atau bedah 1 saham spesifik dulu?\" }"
+      },
+      {
+        "path": "memory/2026-03-06-0852.md",
+        "score": 0.4,
+        "snippet": "Saya akan memeriksa variabel lingkungan yang mungkin memaksa model. Saya akan menjalankan perintah `env`. assistant: Saya sudah memeriksa variabel lingkungan menggunakan perintah `env`. Saya tidak melihat variabel lingkungan apa pun yang secara eksplisit menyebutkan \"GROQ\" atau `GROQ_API_KEY`, `GROQ_MODEL`, dll."
+      },
+      {
+        "path": "memory/2026-03-05-1028.md",
+        "score": 0.3333,
+        "snippet": "\"sender_label\": \"gito\", \"body\": \"Siap Pak, saya jelasin sederhana.\\n\\nApa itu single instance multi bot?\\n\\nSingle instance multi bot =\\n1 mesin/1 aplikasi OpenClaw yang jalan, tapi bisa ngelola beberapa bot sekaligus (misalnya beberapa bot Telegram, atau channel lain) dari satu tempat.\\n\\n\u2500\u2500\u2500\\n\\nBayangin begini\\n\\nSeperti 1 ruang kontrol dengan banyak HT/ra"
+      },
+      {
+        "path": "memory/2026-03-06-0626.md",
+        "score": 0.2667,
+        "snippet": "active model yang sekarang kamu gunakan apa ? user: Conversation info (untrusted metadata):"
+      },
+      {
+        "path": "memory/2026-03-05-0257.md",
+        "score": 0.2667,
+        "snippet": "- **Agent main (Gito):** Sekarang sudah resmi pakai `openai/gpt-5.2` \u2705 - **Gateway:** Sudah saya restart lagi untuk memastikan sesi baru benar-benar pakai model yang Bapak minta."
+      },
+      {
+        "path": "memory/2026-03-05-1432.md",
+        "score": 0.2,
+        "snippet": "untuk mencari saham-saham yang \"menarik\" assistant: [[reply_to_current]] Mantap Pak, kalau targetnya cari saham yang **\u201cmenarik\u201d**, saya pakai definisi ini biar objektif:"
+      },
+      {
+        "path": "memory/2026-03-05-1601.md",
+        "score": 0.1333,
+        "snippet": "user: A new session was started via /new or /reset. Execute your Session Startup sequence now - read the required files before responding to the user. Then greet the user in your configured persona, if one is provided. Be yourself - use your defined voice, mannerisms, and mood. Keep it to 1-3 sentences and ask what they want to do. If the runtime model diffe"
+      },
+      {
+        "path": "memory/2026-03-06-heartbeat-overdue.md",
+        "score": 0.1333,
+        "snippet": "1) **07:00 WIB** \u2014 News collection (Kontan, CNBC Indonesia, IDX, Bloomberg Technoz, Emiten News) 2) **07:30 WIB** \u2014 Greeting + ringkasan Bloomberg Technoz (Sektor Riil & Market) untuk Pak Hinsyah"
+      },
+      {
+        "path": "memory/facts-config.md",
+        "score": 0.0667,
+        "snippet": "- Daily 07:00 WIB: news collection - Daily 07:30 WIB: greeting + ringkasan Bloomberg Technoz untuk Pak Hinsyah - Morning brief humanizer skill: market-brief-humanizer (khusus Morning Brief default)"
+      }
+    ]
+  }
+]
