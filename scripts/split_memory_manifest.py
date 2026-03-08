@@ -17,7 +17,7 @@ OUT_DIR = Path(__file__).resolve().parents[1] / "benchmarks"
 
 def classify(path: Path, text: str) -> str:
     name = path.name.lower()
-    if name in {"facts-config.md", "daily_news_log.md"}:
+    if name in {"facts-config.md", "facts-trading-journal.md", "daily_news_log.md"}:
         return "structured"
     if "heartbeat" in name or ("-" in name and len(name) > 14):
         return "transcript"

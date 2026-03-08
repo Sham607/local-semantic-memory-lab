@@ -71,11 +71,21 @@ def kind_bonus(kind: str):
     return 0.08 if kind == "structured" else 0.0
 
 
+def resolve_kind(path: str, kinds: dict) -> str:
+    if path in kinds:
+        return kinds[path]
+    # fallback: manifest often stores absolute path while candidates are relative
+    for k, v in kinds.items():
+        if k.endswith(path):
+            return v
+    return "transcript"
+
+
 def rerank(query, candidates, kinds, ref_date):
     scored = []
     for c in candidates:
         path = Path(c.get("path", "")).as_posix()
-        kind = kinds.get(path, "transcript")
+        kind = resolve_kind(path, kinds)
         sem = float(c.get("score", 0.0))
         lex = lexical_overlap(query, c.get("snippet", ""))
         final = (0.75 * sem) + (0.15 * lex) + kind_bonus(kind) + recency_boost(path, ref_date)

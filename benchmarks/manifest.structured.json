@@ -26,5 +26,9 @@
   {
     "path": "/home/gito/.openclaw/workspace/memory/facts-config.md",
     "kind": "structured"
+  },
+  {
+    "path": "/home/gito/.openclaw/workspace/memory/facts-trading-journal.md",
+    "kind": "structured"
   }
 ]
