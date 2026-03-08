@@ -1,30 +1,22 @@
 # NEXT STEPS (For Next Agent)
 
-## Immediate Actions
-1. Jalankan benchmark mini v1 secara otomatis (20 query) dan simpan raw result.
-2. Labeling strong/partial/noise terhadap top-1.
-3. Lanjutkan dari status terbaru di `benchmarks/results-after-tuning.v1.md`.
-4. Gunakan `scripts/split_memory_manifest.py` untuk membangun manifest split awal (structured vs transcript).
-5. Tinjau `benchmarks/results-v2-simulation.md` sebagai baseline simulasi structured-first.
+## STATUS PROYEK
+- **COMPLETED & LOCKED**
+- Final benchmark: **v25**
+- Hasil final: **Strong 100%**, **Noise 0%**
 
-## Iteration Plan
-- Iterasi 1: metadata filter source + date
-- Iterasi 2: split index structured vs transcript
-- Iterasi 3: add local reranker
-- Iterasi 4: tuning minScore + topK
+## Locking Notes
+- Arsitektur final sudah dikunci dan didokumentasikan pada `memory/ARCH_LOCK.md`.
+- Tidak ada iterasi tuning lanjutan yang diperlukan untuk baseline operasional.
+- Perubahan arsitektur hanya boleh dilakukan melalui siklus evaluasi baru dengan benchmark terpisah.
 
-## Current Status
-- V1 selesai: minScore 0.25 live, hasil belum membaik signifikan.
-- V2 dimulai: blueprint `configs/retrieval-v2-structured-first.yaml` + `docs/v2-implementation-plan.md` sudah tersedia.
-- V2 simulation (manual dry-run) menunjukkan indikasi perbaikan ke Strong ~45% dan Noise ~40%.
-- V2.3 collector scaffold tersedia: `scripts/collector_topk.py` + `benchmarks/topk_todo.v23.json`.
+## Referensi Final
+- `benchmarks/results-v25-structured-expansion.md`
+- `benchmarks/raw_results.v25.structured.json`
+- `benchmarks/reranked.v25.structured.json`
+- `benchmarks/reranked.v25.structured.labels.json`
+- `benchmarks/topk_todo.v25.structured.json`
 
-## Definition of Done
-- Strong >=55%
-- Noise <=25%
-- Tidak ada regresi latency signifikan
-- Runbook operasi jelas dan bisa diulang
-
-## Notes
-- Jangan ubah semua parameter sekaligus.
-- Simpan before/after metrics per iterasi.
+## Catatan Operasional
+- Pertahankan strategi structured-first dengan prioritas dokumen `facts-*.md`.
+- Pastikan file mandatory tetap tersedia dan sinkron: `facts-config.md`, `facts-trading-journal.md`.
